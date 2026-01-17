@@ -3,4 +3,4 @@ MSV: 23810310309
 Lớp: D18CNPM4
 
 DEMO:
-![Demo](./images/DEMO.jpg)
+![Demo](./images/DEMO.png)
